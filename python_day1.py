@@ -69,6 +69,7 @@ print(price)
 "STR" = String: "hello"
 "BOOL" = Boolean: "true or false"
 """
+print("iloveww")
 
 
 
